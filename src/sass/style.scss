@@ -1,0 +1,21 @@
+.timer {
+    display: flex;
+    flex-direction: row;
+    /* outline: 1px red double; */
+    justify-content: space-between;
+    width: 600;
+    height: 50;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.field{
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.date-input,
+.time-input{
+    width: 200;
+    height: 100px;
+}
